@@ -44,7 +44,7 @@ To get started with the Nonograms game, follow these simple steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/nonograms.git
+   git clone https://github.com/yermaka-a/nonograms.git
    ```
    
 ## Contributing 🤝
